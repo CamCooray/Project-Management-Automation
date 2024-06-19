@@ -1,0 +1,2 @@
+Application OAuth Client ID = 9b9f3a6bea07ade75ab2
+Application OAuth Client Secret = Bgwvufa636g16S7EasrHo8j88UFqm18CwNglXvLhtn4
