@@ -1,2 +1,2 @@
 # 2MNEXT
-2MNEXT Internship Projects
+2MNEXT Projects
