@@ -9,7 +9,7 @@ import re
 import pandas as pd
 
 def get_projects():
-    url = "https://2mnext.deltekfirst.com/2MNEXT/api/project"
+    url = "https://companyname.deltekfirst.com/companyname/api/project"
 
     payload = ''
     headers = {
