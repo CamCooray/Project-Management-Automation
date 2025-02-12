@@ -1,2 +1,1 @@
-# 2MNEXT
-2MNEXT Projects
+Project Management System Automation
