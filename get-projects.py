@@ -14,7 +14,7 @@ def get_projects():
     payload = ''
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer sCqXknUIW1yFs-LZe7pcbLsEgkvLtjj-fuSf1uXxZvQOtSO6XeOedi3B4sgh3MXX6_3syimqs16kBDpdikcTnMc-VI_7OfdBVVnfG3Ggp3vYjKZqlZLU9e7gLA-aNDn5gKhKzOG93mQTq5kwwld48-7yLh2_OjDYWtVjX2NpWyeTqVfVPlidFTPUkIX5y4Zg9yCxspI3By3gfCDeKWcPj5foKHH1oZ84CT4LYl26HgAJFZ6D0kD01BMDvj_8GitqXN1Z--Y6OrU0o6gaJVL6tmkiOhWOv6juDHxS6VL7RIKwrGJKu9qL5UuoSm91FvLKkeyP-rNsnEQYjjJj8L0CYChQG_qUhVH39bvofCj8WBGaMm4iKbd-THbQN1XuRd4DltNHhAVGJuHCkKBVI8EwGQ'
+        'Authorization': 'Bearer yourBearerhere'
     }
 
     response = requests.request("GET", url, headers=headers, data=payload)
